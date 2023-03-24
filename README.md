@@ -1,2 +1,2 @@
 # Rumi's Palace
-# [Human Studies 101 (elective)](https://www.youtube.com/watch?v=o5g-lUuFgpg)
+# [Human Studies 101 (elective)](https://r-u-m-i.github.io/human-studies-101/)
