@@ -1,2 +1,2 @@
 # Rumi's Palace
-# Does this work? [hi](https://www.youtube.com/watch?v=o5g-lUuFgpg)
+# [Human Studies 101 (elective)](https://www.youtube.com/watch?v=o5g-lUuFgpg)
